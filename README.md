@@ -1,1 +1,1 @@
-it should be able to be adapted to things like self driving or controlling a robot. thats what I will try next
+it should be able to be adapted to things like self driving or controlling a robot. thats what I will try next. it needs some sort of machine vision with object and people recognition added. it needs like a GPS added and the game changing from a basic snake game to a 2d and 3d driving environment.
